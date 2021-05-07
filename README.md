@@ -1,4 +1,4 @@
-# diploma_nm-s
+# diploma-nms
 
 ## Usage
 
@@ -6,27 +6,27 @@
 
 2. Initialize virtual environment:
 ```
-$ python -m venv diploma_nm-s
+$ python -m venv diploma-nms
 ```
 
 3. Activate initialized environment:
 * on Windows(depends on your shell):
 ```
-$ diploma_nm-s/Scripts/[activate|activate.bat|Activate.ps1]
+$ diploma-nms/Scripts/[activate|activate.bat|Activate.ps1]
 ```
 * on Linux/MacOS:
 ```
-$ source diploma_nm-s/bin/activate
+$ source diploma-nms/bin/activate
 ```
 
 4. Install project requirements:
 ```
-$ pip -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 5. Run the project:
 ```
-$ python -m diploma_nm-s
+$ python -m diploma-nms
 ```
 
 ## License
