@@ -1,7 +1,5 @@
 import wsgiref.simple_server
-
 import falcon
-import requests
 
 
 class MainController:
