@@ -13,7 +13,6 @@ setup(
         "setuptools>=45.0",
         "falcon>=3.0.0",
         "requests>=2.25.1",
-        "gunicorn>=20.1.0",
     ],
     entry_points={
         "console_scripts": [
