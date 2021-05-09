@@ -1,3 +1,8 @@
+## [1.1.0] - 2021-05-09
+
+### Added
+* Route to stop the running server
+
 ## [1.0.0] - 2021-05-09
 
 ### Changed
